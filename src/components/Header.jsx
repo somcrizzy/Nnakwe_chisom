@@ -17,7 +17,7 @@ function Header() {
         <a className="nav-link " aria-current="page" href="/">HOME</a>
         <a className="nav-link" href="/projects">PROJECTS</a>
         <a className="nav-link" href="/about">ABOUT ME</a>
-        <a className="nav-link" href="http://localhost:5173/#icon">CONTACT ME</a>
+        <a className="nav-link" href="/">CONTACT ME</a>
       </div>
       <div className="navbar">
         <a  href="https://wa.link/rd1qpo"   className='btn orange text-light'>Whatsapp</a>
